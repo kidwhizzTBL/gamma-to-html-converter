@@ -177,7 +177,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Aamir Khan**
 - Email: [aamir@aamir.uk.com](mailto:aamir@aamir.uk.com)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@kidwhizzTBL](https://github.com/kidwhizzTBL)
 
 ---
 
