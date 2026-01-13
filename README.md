@@ -160,6 +160,12 @@ Output: Fully self-contained presentation
 See [docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) for common issues and solutions.
 
 ---
+## 📸 Screenshot
+
+![Gamma to HTML Converter](screenshots/demo.png)
+```
+
+---
 
 ## 🤝 Contributing
 
